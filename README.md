@@ -1,4 +1,4 @@
-Mini Red Social Project with .Net Core and React-TS
+ #Mini Red Social Project with .Net Core and React-TS
 Backend:
 .Net Core 7
 Sql Server Database
@@ -9,6 +9,7 @@ JWT Token
 Cloudinary for save images
 Dockerizing App
 Authentication with identity framework
+
 
 Client:
 React
